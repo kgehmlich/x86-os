@@ -6,6 +6,7 @@ A personal project to build an x86 OS from scratch. Feel free to use any of this
 ---------------------------------
 
 Assembly command
+
 All .asm files should be assembled using the following nasm command, unless otherwise noted in the source code:
 
 nasm [infile.asm] -f bin -o [outfile.bin]
